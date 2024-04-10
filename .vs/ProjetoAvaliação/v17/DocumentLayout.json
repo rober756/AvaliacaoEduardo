@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\ProjetoAvalia\u00E7\u00E3o\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A64D1A7-AC53-45A4-9852-B229EB1737B1}|ProjetoAvalia\u00E7\u00E3o\\ProjetoAvalia\u00E7\u00E3o.csproj|c:\\users\\user\\source\\repos\\projetoavalia\u00E7\u00E3o\\projetoavalia\u00E7\u00E3o\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1A64D1A7-AC53-45A4-9852-B229EB1737B1}|ProjetoAvalia\u00E7\u00E3o\\ProjetoAvalia\u00E7\u00E3o.csproj|solutionrelative:projetoavalia\u00E7\u00E3o\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A64D1A7-AC53-45A4-9852-B229EB1737B1}|ProjetoAvalia\u00E7\u00E3o\\ProjetoAvalia\u00E7\u00E3o.csproj|c:\\users\\user\\source\\repos\\projetoavalia\u00E7\u00E3o\\projetoavalia\u00E7\u00E3o\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A64D1A7-AC53-45A4-9852-B229EB1737B1}|ProjetoAvalia\u00E7\u00E3o\\ProjetoAvalia\u00E7\u00E3o.csproj|solutionrelative:projetoavalia\u00E7\u00E3o\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ProjetoAvalia\u00E7\u00E3o\\ProjetoAvalia\u00E7\u00E3o\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "ProjetoAvalia\u00E7\u00E3o\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ProjetoAvalia\u00E7\u00E3o\\ProjetoAvalia\u00E7\u00E3o\\Form1.Designer.cs*",
+              "RelativeToolTip": "ProjetoAvalia\u00E7\u00E3o\\Form1.Designer.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T00:45:43.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ProjetoAvalia\u00E7\u00E3o\\ProjetoAvalia\u00E7\u00E3o\\Form1.cs",
+              "RelativeDocumentMoniker": "ProjetoAvalia\u00E7\u00E3o\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ProjetoAvalia\u00E7\u00E3o\\ProjetoAvalia\u00E7\u00E3o\\Form1.cs [Projeto]*",
+              "RelativeToolTip": "ProjetoAvalia\u00E7\u00E3o\\Form1.cs [Projeto]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T00:42:02.981Z",
+              "EditorCaption": " [Projeto]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
